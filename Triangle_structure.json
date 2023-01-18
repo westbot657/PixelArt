@@ -1,0 +1,53 @@
+{
+  "anchor": [
+    428,
+    140
+  ],
+  "scale": 2.5,
+  "horizontal_scale": 1,
+  "verticle_scale": 1,
+  "width_scale": 1,
+  "height_scale": 1,
+  "type": "Triangle Object",
+  "grid_color": [
+    10,
+    80,
+    240
+  ],
+  "kwargs": {
+    "X": 428,
+    "Y": 140,
+    "radius": 50
+  },
+  "grid_size": 8,
+  "rotation": 0.0,
+  "vertices": [
+    {
+      "anchor": [
+        553.0000000000002,
+        140.00000000000003
+      ],
+      "angle": -2550.0,
+      "length": 216.50635094610962,
+      "width": 1
+    },
+    {
+      "anchor": [
+        365.50000000000006,
+        248.25317547305474
+      ],
+      "angle": -2430.0,
+      "length": 216.50635094610936,
+      "width": 1
+    },
+    {
+      "anchor": [
+        365.50000000000034,
+        31.746824526946014
+      ],
+      "angle": -2310.0,
+      "length": 216.5063509461097,
+      "width": 1
+    }
+  ]
+}
