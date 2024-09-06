@@ -81,7 +81,7 @@ image_data = [
   }
 ]
 
-if "./resources" not in [f.path for f in os.scandir()]:
+if not os.path.exists("./resources"):
   os.mkdir("./resources")
 
 files = [f.path for f in os.scandir("./resources")]

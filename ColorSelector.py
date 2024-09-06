@@ -74,7 +74,7 @@ class ColorSelector:
   def from_rgb(self, rgb_code):
     self.rgb_input_open = False
     self.hex_input_open = False
-    vals = re.findall("\d+\d?\d?", rgb_code)
+    vals = re.findall("\\d+\\d?\\d?", rgb_code)
 
     if len(vals) == 4:
       self.r, self.g, self.b, self.a = vals

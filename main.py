@@ -13,7 +13,7 @@ import re
 from threading import Thread
 from PIL import Image, ImageColor
 
-Screen = pygame.display.set_mode((625, 250))
+Screen = pygame.display.set_mode((625, 250), pygame.RESIZABLE)
 
 ######################################
 ## ------ Generate Resources ------ ##
