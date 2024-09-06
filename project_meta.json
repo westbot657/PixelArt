@@ -1,6 +1,6 @@
 {
     "_comment": "this file s used by my website to display project info",
-    "description": "(Unmaintaned) A vector drawing system that can rasterize to an image.",
+    "description": "A vector drawing system that can rasterize to an image.",
     "version": "1.0",
     "languages": ["python"]
 }
